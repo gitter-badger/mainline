@@ -1,6 +1,10 @@
 mainline
 ========
 
+.. image:: https://badges.gitter.im/vertical-knowledge/mainline.svg
+   :alt: Join the chat at https://gitter.im/vertical-knowledge/mainline
+   :target: https://gitter.im/vertical-knowledge/mainline?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 Simple yet powerful python dependency injection.
 
 Tested with Python 2.7, 3.4, 3.5.
